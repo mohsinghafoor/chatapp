@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-export const MyMessage = (message) => {
+export const MyMessage = ({ message }) => {
   if (message?.attachments?.length > 0) {
     return (
       <img

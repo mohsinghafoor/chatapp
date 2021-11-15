@@ -22,9 +22,8 @@ export const TheirMessage = ({ lastMessage, message }) => {
           className="message"
           style={{
             float: "left",
-            marginRight: 18,
-            color: "white",
-            backgroundColor: "#3B2A50",
+            backgroundColor: "gray",
+            marginLeft: isFirstMessageByUser ? "4px" : "48px",
           }}
         >
           {message.text}
