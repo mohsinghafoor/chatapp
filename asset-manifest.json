@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chatapp/static/css/main.5eb77d82.chunk.css",
-    "main.js": "/chatapp/static/js/main.36676b19.chunk.js",
-    "main.js.map": "/chatapp/static/js/main.36676b19.chunk.js.map",
-    "runtime-main.js": "/chatapp/static/js/runtime-main.8fe29eb8.js",
-    "runtime-main.js.map": "/chatapp/static/js/runtime-main.8fe29eb8.js.map",
-    "static/js/2.5481ea19.chunk.js": "/chatapp/static/js/2.5481ea19.chunk.js",
-    "static/js/2.5481ea19.chunk.js.map": "/chatapp/static/js/2.5481ea19.chunk.js.map",
-    "static/js/3.77ef88db.chunk.js": "/chatapp/static/js/3.77ef88db.chunk.js",
-    "static/js/3.77ef88db.chunk.js.map": "/chatapp/static/js/3.77ef88db.chunk.js.map",
+    "main.css": "/chatapp/static/css/main.9cdd9c04.chunk.css",
+    "main.js": "/chatapp/static/js/main.8a10bf18.chunk.js",
+    "main.js.map": "/chatapp/static/js/main.8a10bf18.chunk.js.map",
+    "runtime-main.js": "/chatapp/static/js/runtime-main.24a6f9d3.js",
+    "runtime-main.js.map": "/chatapp/static/js/runtime-main.24a6f9d3.js.map",
+    "static/js/2.f1015408.chunk.js": "/chatapp/static/js/2.f1015408.chunk.js",
+    "static/js/2.f1015408.chunk.js.map": "/chatapp/static/js/2.f1015408.chunk.js.map",
+    "static/js/3.149bc6f4.chunk.js": "/chatapp/static/js/3.149bc6f4.chunk.js",
+    "static/js/3.149bc6f4.chunk.js.map": "/chatapp/static/js/3.149bc6f4.chunk.js.map",
     "index.html": "/chatapp/index.html",
-    "static/css/main.5eb77d82.chunk.css.map": "/chatapp/static/css/main.5eb77d82.chunk.css.map",
-    "static/js/2.5481ea19.chunk.js.LICENSE.txt": "/chatapp/static/js/2.5481ea19.chunk.js.LICENSE.txt"
+    "static/css/main.9cdd9c04.chunk.css.map": "/chatapp/static/css/main.9cdd9c04.chunk.css.map",
+    "static/js/2.f1015408.chunk.js.LICENSE.txt": "/chatapp/static/js/2.f1015408.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fe29eb8.js",
-    "static/js/2.5481ea19.chunk.js",
-    "static/css/main.5eb77d82.chunk.css",
-    "static/js/main.36676b19.chunk.js"
+    "static/js/runtime-main.24a6f9d3.js",
+    "static/js/2.f1015408.chunk.js",
+    "static/css/main.9cdd9c04.chunk.css",
+    "static/js/main.8a10bf18.chunk.js"
   ]
 }
